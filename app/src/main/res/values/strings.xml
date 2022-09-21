@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Dammo KepkiApp</string>
+    <string name="profile">профиль</string>
+    <string name="my_acc">Мой аккаунт</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email">email</string>
+    <string name="number_phone">number phone</string>
+    <string name="address">адресс</string>
+    <string name="name">name</string>
+    <string name="my_orders">Мои заказы</string>
+    <string name="phone_number">number phone</string>
+    <string name="location">address</string>
+    <string name="namee">name</string>
+</resources>
